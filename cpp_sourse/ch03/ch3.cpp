@@ -102,10 +102,10 @@ void q_3_31(){
 }
 
 int main(){
-//    basic_getline();
+   basic_getline();
 //    basic_string();
 //    basic_bieset();
 //    q_3_14();
 //    q_3_17();
-    q_3_23();
+// q_3_23();
 }
