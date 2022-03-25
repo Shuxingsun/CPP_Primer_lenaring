@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Code\C++\C++ primer\cpp_sourse\ch06\ch06\</FILEPATH>
+      <FILENAME>6.5.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>“abs”的批注不一致: 此实例包含 无批注。请参见 c:\program files (x86)\windows kits\10\include\10.0.19041.0\ucrt\corecrt_math.h(464)。注意: 此函数有多个原型。此警告将第一个原型与实例号 3 进行比较。 </DESCRIPTION>
+    <FUNCTION>abs</FUNCTION>
+    <DECORATED>abs</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
